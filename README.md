@@ -6,6 +6,8 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 
 ---
 
+LIVE DEMO:- https://titanic-survival-prediction-zqf4yfnxmeetp2d9v8mtkr.streamlit.app/
+
 ## Dataset
 
 The dataset contains information about Titanic passengers, including:
