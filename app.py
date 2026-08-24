@@ -28,10 +28,11 @@ if st.button("Predict"):
         "with_family":with_family
     }
 
-    response = requests.post("http://127.0.0.1:8000/predict",json=data)
+    response = requests.post("https://titanic-survival-prediction-2-4moc.onrender.com/predict",json=data)
 
 
     result = response.json()
 
 
     st.success(result["prediction"])
+    
