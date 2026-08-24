@@ -4,4 +4,9 @@ uvicorn
 numpy
 pandas
 scikit-learn
+tensorflow
+keras
+numpy
+pillow
+
 
